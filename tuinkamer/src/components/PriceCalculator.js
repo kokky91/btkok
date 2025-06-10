@@ -1,1 +1,0 @@
-// Prijsberekening component
