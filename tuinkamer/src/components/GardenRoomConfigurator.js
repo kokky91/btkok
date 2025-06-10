@@ -1,0 +1,1 @@
+// Tuinkamer configuratie component

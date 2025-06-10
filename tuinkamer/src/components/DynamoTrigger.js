@@ -1,0 +1,1 @@
+// Dynamo trigger component

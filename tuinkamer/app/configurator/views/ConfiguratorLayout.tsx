@@ -1,0 +1,1 @@
+// Bestand: ConfiguratorLayout.tsx
